@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Top 10 ES6 Features every Web Developer must know",
+    "url": "https://webapplog.com/es6",
+    "text": "This essay will give you a quick introduction to ES6.",
+    "comments": [
+      {"text": "Cruel…..var { house, mouse} = No type optimization at all"},
+      {"text": "I think you’re undervaluing the benefit of ‘let’ and ‘const’."},
+      {"text": "(p1,p2)=>{ … } ,i understand this ,thank you !"}
+    ]
+  },
+  {
+    "name": "Module 2 Assignment Lab: RESTful Blog API",
+    "url": "https://courses.edx.org/",
+    "text": "The assignment lab for this module is to build a RESTful Blog API.",
+    "comments": [
+      {"text": "Most often, servers have complex logic and business relations."},
+      {"text": "Start with an RESTful Express API server by creating a new project."}
+    ]
+  }
+]
